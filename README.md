@@ -1,15 +1,10 @@
 # chisel-empty
 
-An almost empty chisel project (and adder) as a starting point for hardware design.
+An almost empty chisel project as a starting point for hardware design.
 
-To generate Verilog code for the adder execute:
+To generate Verilog code for the axis_crc_checker execute:
 ```bash
 make
-```
-
-Run the tests with:
-```bash
-make test
 ```
 
 Cleanup the repository with:
